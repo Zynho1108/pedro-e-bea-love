@@ -2,8 +2,6 @@
 margin: 0 ;
 padding: 0;
 
-
-
 }
 
 .retalho{
@@ -12,7 +10,6 @@ color: gray;
 display: flex;
 justify-content: space-around;
 padding: 24px 0;
-
 
 }
 
@@ -25,7 +22,77 @@ width: 60%;
     margin: 0 16px;
 font-size: 24px;
 
+}
 
+  .xitaozin-imagem{
+   width: 30%;
 
+  }
+.xitaozin{
+  background-image:linear-gradient(rgb(0, 0, 0),rgb(94, 94, 94)) ;
+   color: rgb(255, 255, 255);
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+  padding: 24px 0;
+}
+.xitaozin-div{
+width: 90%;
 
 }
+
+.xitaozin-titulo{
+    padding: 24px 0;
+}
+.estudante-imagem {
+ width: 120px;
+
+}
+
+
+.xitaozin-texto-um{
+  font-size: large;
+  text-decoration: dotted;
+}
+.xitaozin-texto-dois{
+  font-size: large;
+  text-decoration: dotted;
+  text-shadow: 10cap;
+}
+
+.estudante-icone{
+width: 35px;
+
+}
+.estudante-div1{
+text-align: center;
+
+}
+
+.estudante-div2{
+  text-align: center;
+}
+  
+  .estudante-titulo{
+text-align: center;
+padding: 50PX 0;
+  }
+
+ .estudante-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
