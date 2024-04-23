@@ -64,28 +64,34 @@ width: 90%;
 width: 35px;
 
 }
-.estudante-div{
+.estudante-div1{
 text-align: center;
 
 }
 
 .estudante-div2{
   text-align: center;
+}
   
-  }
-
   .estudante-titulo{
 text-align: center;
 padding: 50PX 0;
   }
 
  .estudante-todos{
-display: grid;
-grid-template-columns: 20% 20% 20% 20% 20%;
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
  }
 
-
-
+.rodape{
+background-color: black;
+text-align: center;
+}
+.rodape-imagem{
+  height: 70px;
+  padding: 12px 0;
+  text-align: center;
+}
 
 
 
